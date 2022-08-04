@@ -20,7 +20,7 @@ const galleryList = images
   )
   .join('');
 
-console.log(galleryList);
+// console.log(galleryList);
 
 const galleryEl = document.querySelector('.gallery');
 
